@@ -4,6 +4,8 @@ A plugin for the [Sprummlbot](https://sprum.ml) by the official developer.
 ---
 This plugin adds a new command to the Sprummlbot named `!waitingfor`. With that plugin you can have a reminder when a client joins.
 
+[Forum Post (Download and more)](https://forum.sprum.ml/thread.php?pid=90)
+
 ##Installation
 1. Download or compile the jar file
 2. Upload it to your server
