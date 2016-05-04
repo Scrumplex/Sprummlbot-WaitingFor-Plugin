@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WaitingFor-Plugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WaitingFor_Plugin_jar</output-path>
+    <root id="archive" name="WaitingFor-Plugin.jar">
+      <element id="module-output" name="WaitingFor-Plugin" />
+      <element id="dir-copy" path="$PROJECT_DIR$/res" />
+    </root>
+  </artifact>
+</component>
